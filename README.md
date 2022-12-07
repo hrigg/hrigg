@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning React and strenghtening front-end development
-- 📫 Email: rigg.heather6@gmail.com
+- 🌱 I am a full-stack developer currently working on diving into React/Redux
 - 😄 Pronouns: she / her / hers
 - ⚡ Check out my top projects:
 -->
